@@ -83,7 +83,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Selling Food With Elixir [Chris Bell](https://github.com/cjbell)
 
-- [Video]](#)
+- [Video](#)
 - [Slides](#)
 - Links:
     + [Cava](http://cavagrill.com/)
