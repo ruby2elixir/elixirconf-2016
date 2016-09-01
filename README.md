@@ -81,6 +81,19 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](http://slides.com/morganlaco/deck-2/live)
 - Links: ...
 
+#### Selling Food With Elixir [Chris Bell](https://github.com/cjbell)
+
+- [Video]](#)
+- [Slides](#)
+- Links:
+    + [Cava](http://cavagrill.com/)
+    + [gen_retry](https://github.com/appcues/gen_retry)
+    + [Task.Supervisor](http://elixir-lang.org/docs/stable/elixir/Task.Supervisor.html)
+    + [GenServer.terminate/2](http://elixir-lang.org/docs/stable/elixir/GenServer.html#c:terminate/2)
+    + [ETS](http://elixir-lang.org/getting-started/mix-otp/ets.html)
+    + [:ets.tab2list/1](http://erlang.org/doc/man/ets.html#tab2list-1)
+    + [epmd](http://erlang.org/doc/man/epmd.html)
+
 ## Training
 
 ### Talks
